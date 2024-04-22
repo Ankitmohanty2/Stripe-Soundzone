@@ -1,0 +1,13 @@
+node_modules/
+.env
+
+
+# Ignore all files with .log extension
+*.log
+
+# Ignore all files in a directory named temp
+temp/*
+
+# Ignore all .txt files except file.txt
+*.txt
+!file.txt
